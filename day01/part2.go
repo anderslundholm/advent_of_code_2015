@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/anderslundholm/advent_of_code_2020/pkg/reader"
-	"github.com/anderslundholm/advent_of_code_2020/pkg/timer"
+	"github.com/anderslundholm/advent_of_code_2015/pkg/reader"
+	"github.com/anderslundholm/advent_of_code_2015/pkg/timer"
 )
 
 // Part2 ...
